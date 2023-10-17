@@ -1,6 +1,7 @@
 # Draw Together :art: 
 ![2023-05-26 (2)](https://github.com/millycakes/draw-together/assets/105938846/eb21d9e4-65c1-45cb-bd67-a525be1aa1d5)
-[View Full Case Study](https://www.hanjenna.com/#/draw-together)
+
+[View full case study here](https://www.hanjenna.com/#/draw-together)
 
 Draw Together is a web app that allows two people to draw collaboratively with each other online! Since coming to college, our team has experienced how hard it is to maintain relationships with all of our friends and families back home, and we wanted to build something that we could use to stay connected. We drew inspiration from a social media trend where couples would draw on a small canvas for a few minutes and swap with each other. We wanted to expand on this idea and include multiple ways two people can collaborate with each other in one platform. There are three modes you and your friend can play: Draw Together (you and your friend both draw together on one canvas), Top Bottom (you and your friend each draw on either the top half or bottom half of the canvas without being able to see the other half), and Canvas Swap (you and your friend draw on two different canvases and swap canvases every 2 minutes until the time is up). Our team included one UI/UX Designer, one UI/UX Designer / Front-End Developer, and one Full-Stack Developer
 
