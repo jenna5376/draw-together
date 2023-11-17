@@ -14,7 +14,7 @@ import "./style.css"
 
 function App() {
 
-  const socket = io.connect("http://localhost:4000");
+  const socket = io.connect("https://draw-together-server-dvkl53pw5-jenna-hans-projects.vercel.app/");
 
   const[user, setUser] = React.useState({
     name: "player",
